@@ -7500,9 +7500,9 @@
       "dev": true
     },
     "flow-bin": {
-      "version": "0.61.0",
-      "resolved": "https://registry.npmjs.org/flow-bin/-/flow-bin-0.61.0.tgz",
-      "integrity": "sha512-w6SGi5CDfKLNGzYssRhW6N37qKclDXijsxDQ5M8c3WbivRYta0Horv22bwakegfKBVDnyeS0lRW3OqBC74eq2g==",
+      "version": "0.67.1",
+      "resolved": "https://registry.npmjs.org/flow-bin/-/flow-bin-0.67.1.tgz",
+      "integrity": "sha512-jZwanQrtgVRDKs3Le3MmD44YTZSzWkpuUeMv4ZckDOuaa2VQ41ttuxqzxErRdTr/ZSs+J1L2SQW6NKO+D4t2Vw==",
       "dev": true
     },
     "flow-remove-types": {
