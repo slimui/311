@@ -19495,9 +19495,9 @@
       "integrity": "sha512-oFPzmbPAbdthStgffGq8alULe47skPDt1X3KW6NOQnKkcLHP4IS1NfdfHG/CBP5lGsr2gDzNp87pfWLx/eIxjw=="
     },
     "url-search-params-polyfill": {
-      "version": "2.0.0",
-      "resolved": "https://registry.npmjs.org/url-search-params-polyfill/-/url-search-params-polyfill-2.0.0.tgz",
-      "integrity": "sha1-gYuXu5FTllVXKPZGBPeJzqUY0NE="
+      "version": "4.0.0",
+      "resolved": "https://registry.npmjs.org/url-search-params-polyfill/-/url-search-params-polyfill-4.0.0.tgz",
+      "integrity": "sha512-YpLbn1ODFk87Epy3JS+X3OeAQFOQRh9Tyc1TYnUB24Rr1bov9c5oK33Kld00M9q5mdSuk5EOqv8Hlv0MCr9w9w=="
     },
     "urlgrey": {
       "version": "0.4.4",
