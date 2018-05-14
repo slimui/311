@@ -3780,9 +3780,9 @@
       "dev": true
     },
     "babel-plugin-transform-inline-environment-variables": {
-      "version": "0.1.1",
-      "resolved": "https://registry.npmjs.org/babel-plugin-transform-inline-environment-variables/-/babel-plugin-transform-inline-environment-variables-0.1.1.tgz",
-      "integrity": "sha1-JXzNj/aUHFU4T6YGB8lxBbsSVmQ=",
+      "version": "0.4.3",
+      "resolved": "https://registry.npmjs.org/babel-plugin-transform-inline-environment-variables/-/babel-plugin-transform-inline-environment-variables-0.4.3.tgz",
+      "integrity": "sha1-o7CYgzU76LXiM24/8e+KXZP5xIk=",
       "dev": true
     },
     "babel-plugin-transform-member-expression-literals": {
